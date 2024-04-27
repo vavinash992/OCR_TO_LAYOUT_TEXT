@@ -1,0 +1,10 @@
+data_images/
+ocr_env/
+docsumo_image_util/
+submission/
+test_Dataset/
+
+*.pdf
+*.jpg
+*.ttf
+
